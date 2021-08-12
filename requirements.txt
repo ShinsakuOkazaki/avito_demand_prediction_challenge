@@ -1,0 +1,15 @@
+flask
+notebook==6.1.5
+numpy
+pandas
+matplotlib
+seaborn
+mplfinance
+requests
+tensorflow
+sklearn
+xgboost
+lightgbm
+jedi==0.17.2
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
