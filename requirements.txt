@@ -10,6 +10,7 @@ tensorflow
 sklearn
 xgboost
 lightgbm
+kaggle
 jedi==0.17.2
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
